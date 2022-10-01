@@ -8,3 +8,9 @@
 
 ## Requirements:
 
+- pytorch 1.11
+- cv2 4.6.0
+- albumentations 0.5.2
+- skimage 0.19.2
+- numpy 1.21.0
+
